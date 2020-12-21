@@ -1,5 +1,5 @@
 #include <iostream>
-#include "Polish.h"
+#include "polish.h"
 
 int main()
 {
